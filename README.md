@@ -31,3 +31,17 @@ Figure 6. Driver performing the nighttime contrast enhancement application where
 driver’svision field is increased. Upper and lower portions represent the driver’s vision field
 before and after using the application.
 
+![image](https://github.com/AlexWu2812/smartCar/blob/master/image/%E8%87%AA%E4%B8%BB%E9%96%8B%E7%99%BC%E9%9B%BB%E5%8B%95%E8%BB%8A.jpg?raw=true)
+
+This image is Self-developed electric vehicle of Foxconn Technology Group
+
+![image](https://github.com/AlexWu2812/smartCar/blob/master/image/Tesla%E9%9B%BB%E5%8B%95%E8%BB%8A.jpg?raw=true)
+
+This image is the electric car of Tesla
+
+
+ 
+
+
+
+
